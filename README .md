@@ -46,7 +46,7 @@ The objective of this project is to transform raw e-commerce data into an intera
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="Dashboard .png" alt="E-Commerce Sales & Business Analytics Dashboard">
+  <img src="Dashboard.jpg">
 </p>
 
 ## 📈 Key Dashboard Components
@@ -163,14 +163,14 @@ Ecommerce-Analysis-Dashboard/
 
 ## 👨‍💻 Author
 
-**Karthik Kasakani**
+**Tatini Raghu Ram**
 
-B.Tech — Computer Science & Engineering (AI & ML)
+B.Tech — Computer Science & Engineering
 
 Aspiring Data Analyst
 
 **Skills:** Excel | SQL | Python | Data Analysis | Data Visualization
 
-[LinkedIn](https://www.linkedin.com/in/karthik-kasakani)
+[LinkedIn](https://www.linkedin.com/in/raghuramtatini/)
 
-[GitHub](https://github.com/KarthikKasakani2004)
+[GitHub](https://github.com/Raghu200596)
